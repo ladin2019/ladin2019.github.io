@@ -1,6 +1,6 @@
 title: LING499 - Endangered Languages Documentation
 # logo: /assets/img/logo.png
 description: Hello world
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
