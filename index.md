@@ -1,8 +1,17 @@
 ## Monday 27 May
 
+### Test your vocalic perception and X-SAMPA understanding!
+
+[Take this test](http://spellout.net/ibexexps/ianrigby/VowelTest/experiment.html
+)
+
 ### Annotation of sound files
 
-In Praat, create a 4-tier TextGrid. Open the sound file and select it, Annotate > To TextGrid... In `All tier names:`, enter the names of the tiers:
+In Praat, create a 4-tier TextGrid. Open the sound file and select it.
+
+Click `Annotate > To TextGrid...`
+
+In `All tier names:`, enter the names of the tiers:
 
 > OrtTr PhonTr EngTransl EngGloss
 
