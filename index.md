@@ -1,8 +1,4 @@
-Chloe Gfeller, Jessie Johnson, Ian Rigby
-
 # Monday 27 May
-
-
 
 ## Pievia pievia
 
