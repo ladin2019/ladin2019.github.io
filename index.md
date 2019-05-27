@@ -1,6 +1,6 @@
 ## Monday 27 May
 
-### 1. Test your vowel perception and X-SAMPA understanding!
+### 1. Test your vowel perception and X-SAMPA understanding! (under construction)
 
 [Take this test](http://spellout.net/ibexexps/ianrigby/VowelTest/experiment.html
 )
