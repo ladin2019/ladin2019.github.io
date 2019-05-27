@@ -1,6 +1,6 @@
 ## Monday 27 May
 
-(Slides)[https://docs.google.com/presentation/d/1KhbjFXbiCqUILzn6Egn4qSuCh5pZc7vEBARhjhY5-Zs/edit?usp=sharing]
+[Slides](https://docs.google.com/presentation/d/1KhbjFXbiCqUILzn6Egn4qSuCh5pZc7vEBARhjhY5-Zs/edit?usp=sharing)
 
 ### X-SAMPA & IPA Resources
 
