@@ -1,5 +1,20 @@
 ## Monday 27 May
 
+(Slides)[https://docs.google.com/presentation/d/1KhbjFXbiCqUILzn6Egn4qSuCh5pZc7vEBARhjhY5-Zs/edit?usp=sharing]
+
+### X-SAMPA & IPA Resources
+
+[X-SAMPA 1](https://en.wikipedia.org/wiki/X-SAMPA
+)
+
+[X-Sampa 2](https://docs.google.com/spreadsheets/d/1r69Kqn27LD7imOTHLCdTsJ7fgxyAS2t9AahvxD6hyUI/edit?usp=sharing
+)
+
+[IPA](http://westonruter.github.io
+)
+
+## Tuesday 28 May
+
 ### 1. Test your vowel perception and X-SAMPA understanding! (under construction)
 
 [Take this test](http://spellout.net/ibexexps/ianrigby/VowelTest/experiment.html
@@ -16,17 +31,6 @@ In `All tier names:`, enter the names of the tiers:
 > OrtTr PhonTr EngTransl EngGloss
 
 We will work on the second tier, PhonTr, today.
-
-#### X-SAMPA & IPA Resources
-
-[X-SAMPA 1](https://en.wikipedia.org/wiki/X-SAMPA
-)
-
-[X-Sampa 2](https://docs.google.com/spreadsheets/d/1r69Kqn27LD7imOTHLCdTsJ7fgxyAS2t9AahvxD6hyUI/edit?usp=sharing
-)
-
-[IPA](http://westonruter.github.io
-)
 
 #### Pievia pievia
 
