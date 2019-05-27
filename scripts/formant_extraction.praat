@@ -10,6 +10,8 @@ form Get F1, F2, F3
 	positive nformant 5
 	comment Maximum range
 	positive maxfreq 5500
+	comment Tier to extract information from
+	positive n_tier 3
 endform
 
 # Write-out the header
@@ -34,19 +36,19 @@ for i to n
 	select Strings gridlist
 	gridname$ = Get string... i
 	Read from file... 'directory$'/'gridname$'
-	int=Get number of intervals... 2
+	int=Get number of intervals... n_tier
 
 # We then calculate F1, F2 and F3
 
 		for k from 1 to 'int'
 			select TextGrid 'soundname$'
-			label$ = Get label of interval... 2 'k'
+			label$ = Get label of interval... n_tier 'k'
 			#if label$ <> ""
 			if label$ == "a" or label$ == "e" or label$ == "i" or label$ == "o" or label$ == "u" or label$ == "\ef" or label$ == "\ct"
 
 				# calculates the mid point
- 				vowel_onset = Get starting point... 2 'k'
-  				vowel_offset = Get end point... 2 'k'
+ 				vowel_onset = Get starting point... n_tier 'k'
+  				vowel_offset = Get end point... n_tier 'k'
      			midpoint = (vowel_onset + vowel_offset)/2
 				winbeg = midpoint - window
 				winend = midpoint + window
