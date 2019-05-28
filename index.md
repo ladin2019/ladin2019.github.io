@@ -49,9 +49,11 @@ We will work on the second tier, PhonTr, today.
 
 ### Morning: Language Documentation Methods
 
-[Slides]()
+[Slides presented by Jessie]()
 
 Bowern's book: *Linguistic Fieldwork, A Practical Guide* -- [pdf](http://www.linguisticsnetwork.com/wp-content/uploads/Linguistic-Fieldwork-A-Practical-Guide.pdf)
+
+[Alessandro's presentation on the linguistic situation in Bolzano area](pdf/2019-05-28_SouthTyrol_EndLang.pdf)
 
 <!-- ### 1. Test your vowel perception and X-SAMPA understanding! (under construction)
 
