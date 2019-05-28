@@ -7,14 +7,9 @@
 
 ### Morning: X-SAMPA & IPA Resources
 
-[X-SAMPA 1](https://en.wikipedia.org/wiki/X-SAMPA
-)
-
-[X-Sampa 2](https://docs.google.com/spreadsheets/d/1r69Kqn27LD7imOTHLCdTsJ7fgxyAS2t9AahvxD6hyUI/edit?usp=sharing
-)
-
-[IPA](http://westonruter.github.io
-)
+- [X-SAMPA 1](https://en.wikipedia.org/wiki/X-SAMPA)
+- [X-Sampa 2](https://docs.google.com/spreadsheets/d/1r69Kqn27LD7imOTHLCdTsJ7fgxyAS2t9AahvxD6hyUI/edit?usp=sharing)
+- [IPA](http://westonruter.github.io)
 
 ### Afternoon: Annotation of sound files
 
