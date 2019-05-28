@@ -1,11 +1,16 @@
 - [Monday](#monday-27-may)
+    + [Morning](#morning-x-sampa-and-ipa-resources)
+    + [Afternoon](#afternoon-annotation-of-sound-files)
 - [Tuesday](#tuesday-28-may)
+    + [Morning](#morning-language-documentation-methods)
+
+---
 
 ## Monday 27 May
 
 [Slides](https://docs.google.com/presentation/d/1KhbjFXbiCqUILzn6Egn4qSuCh5pZc7vEBARhjhY5-Zs/edit?usp=sharing)
 
-### Morning: X-SAMPA & IPA Resources
+### Morning: X-SAMPA and IPA Resources
 
 - [X-SAMPA 1](https://en.wikipedia.org/wiki/X-SAMPA)
 - [X-Sampa 2](https://docs.google.com/spreadsheets/d/1r69Kqn27LD7imOTHLCdTsJ7fgxyAS2t9AahvxD6hyUI/edit?usp=sharing)
