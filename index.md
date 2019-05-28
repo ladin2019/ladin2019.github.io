@@ -13,7 +13,7 @@
 ### Morning: X-SAMPA and IPA Resources
 
 - [X-SAMPA 1](https://en.wikipedia.org/wiki/X-SAMPA)
-- [X-Sampa 2](https://docs.google.com/spreadsheets/d/1r69Kqn27LD7imOTHLCdTsJ7fgxyAS2t9AahvxD6hyUI/edit?usp=sharing)
+- [X-SAMPA 2](https://docs.google.com/spreadsheets/d/1r69Kqn27LD7imOTHLCdTsJ7fgxyAS2t9AahvxD6hyUI/edit?usp=sharing)
 - [IPA](http://westonruter.github.io)
 
 ### Afternoon: Annotation of sound files
@@ -44,7 +44,6 @@ We will work on the second tier, PhonTr, today.
 #### - Extraction of formant values from the TextGrid
 
 [Link to the Praat script](scripts/formant_extraction.praat), modified version of [this script](http://user.keio.ac.jp/~kawahara/scripts/get_formants_midpoint.praat)
-
 
 ## Tuesday 28 May
 
