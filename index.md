@@ -53,14 +53,14 @@ We will work on the second tier, PhonTr, today.
 
 - [Slides presented by Jessie](https://docs.google.com/presentation/d/1oCaOPEYcy7PhQESjQqtSNIgD5eH-DF7BHi2G7px7NC0/edit?usp=sharing)
 - Bowern's book: *Linguistic Fieldwork, A Practical Guide* -- [pdf](http://www.linguisticsnetwork.com/wp-content/uploads/Linguistic-Fieldwork-A-Practical-Guide.pdf)
-- [Alessandro's presentation on the linguistic situation in Bolzano area](pdf/2019-05-28_SouthTyrol_EndLang.pdf)
+- [Alessandro Vietti's presentation on the linguistic situation in Bolzano area](pdf/2019-05-28_SouthTyrol_EndLang.pdf)
 
 ## Wednesday 29 May
 
 ### Morning: Data Collection
 
-- [Google Doc for Basic Greetings](https://docs.google.com/document/d/1Q-b2mQc3B5r35WJR_2EB9WwYCFfZs6JfXFFgCKpQjVM/edit)
-
+- [Google Doc for Basic Phrases in preparation of the recording session](https://docs.google.com/document/d/1Q-b2mQc3B5r35WJR_2EB9WwYCFfZs6JfXFFgCKpQjVM/edit)
+- [Slides](https://docs.google.com/presentation/d/1i7qd6rdqEELhJRchMluI7nSZ2llt4H5DMiUEgpUFA34/edit?usp=sharing)
 
 <!-- ### 1. Test your vowel perception and X-SAMPA understanding! (under construction)
 
