@@ -51,7 +51,7 @@ We will work on the second tier, PhonTr, today.
 
 ### Morning: Language Documentation Methods
 
-- [Slides presented by Jessie]()
+- [Slides presented by Jessie](https://docs.google.com/presentation/d/1oCaOPEYcy7PhQESjQqtSNIgD5eH-DF7BHi2G7px7NC0/edit?usp=sharing)
 - Bowern's book: *Linguistic Fieldwork, A Practical Guide* -- [pdf](http://www.linguisticsnetwork.com/wp-content/uploads/Linguistic-Fieldwork-A-Practical-Guide.pdf)
 - [Alessandro's presentation on the linguistic situation in Bolzano area](pdf/2019-05-28_SouthTyrol_EndLang.pdf)
 
