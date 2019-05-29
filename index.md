@@ -3,6 +3,8 @@
     + [Afternoon](#afternoon-annotation-of-sound-files)
 - [Tuesday](#tuesday-28-may)
     + [Morning](#morning-language-documentation-methods)
+- [Wednesday](#wednesday-29-may)
+    + [Morning](#morning-data-collection)
 
 ---
 
@@ -49,11 +51,16 @@ We will work on the second tier, PhonTr, today.
 
 ### Morning: Language Documentation Methods
 
-[Slides presented by Jessie]()
+- [Slides presented by Jessie]()
+- Bowern's book: *Linguistic Fieldwork, A Practical Guide* -- [pdf](http://www.linguisticsnetwork.com/wp-content/uploads/Linguistic-Fieldwork-A-Practical-Guide.pdf)
+- [Alessandro's presentation on the linguistic situation in Bolzano area](pdf/2019-05-28_SouthTyrol_EndLang.pdf)
 
-Bowern's book: *Linguistic Fieldwork, A Practical Guide* -- [pdf](http://www.linguisticsnetwork.com/wp-content/uploads/Linguistic-Fieldwork-A-Practical-Guide.pdf)
+## Wednesday 29 May
 
-[Alessandro's presentation on the linguistic situation in Bolzano area](pdf/2019-05-28_SouthTyrol_EndLang.pdf)
+### Morning: Data Collection
+
+- [Google Doc for Basic Greetings](https://docs.google.com/document/d/1Q-b2mQc3B5r35WJR_2EB9WwYCFfZs6JfXFFgCKpQjVM/edit)
+
 
 <!-- ### 1. Test your vowel perception and X-SAMPA understanding! (under construction)
 
