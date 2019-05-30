@@ -5,6 +5,9 @@
     + [Morning](#morning-language-documentation-methods)
 - [Wednesday](#wednesday-29-may)
     + [Morning](#morning-data-collection)
+    + [Afternoon](#afternoon-recording-session)
+- [Thursday](#thursday-30-may)
+    + [Morning](#morning-debriefing)
 
 ---
 
@@ -61,6 +64,16 @@ We will work on the second tier, PhonTr, today.
 
 - [Google Doc for Basic Phrases in preparation of the recording session](https://docs.google.com/document/d/1Q-b2mQc3B5r35WJR_2EB9WwYCFfZs6JfXFFgCKpQjVM/edit)
 - [Slides](https://docs.google.com/presentation/d/1i7qd6rdqEELhJRchMluI7nSZ2llt4H5DMiUEgpUFA34/edit?usp=sharing)
+
+### Afternoon: Recording session
+
+Soon: access to the data collected!
+
+## Thursday 30 May
+
+### Morning: Debriefing
+
+- [Slides](https://docs.google.com/presentation/d/100-1XP6o-twd5uc1XYWepJycuwxa4TubBfc0pEQR4ok/edit?usp=sharing)
 
 <!-- ### 1. Test your vowel perception and X-SAMPA understanding! (under construction)
 
