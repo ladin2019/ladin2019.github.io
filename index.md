@@ -73,7 +73,9 @@ Soon: access to the data collected!
 
 ### Morning: Debriefing
 
-- [Slides](https://docs.google.com/presentation/d/100-1XP6o-twd5uc1XYWepJycuwxa4TubBfc0pEQR4ok/edit?usp=sharing)
+- [On the data collection](https://docs.google.com/presentation/d/100-1XP6o-twd5uc1XYWepJycuwxa4TubBfc0pEQR4ok/edit?usp=sharing)
+- [On the technical check](https://docs.google.com/presentation/d/12VvwO8otMOhVicWQnVKRDkPWp6lm8bW4v7MWSGo_uzU/edit#slide=id.p)
+- [The North Wind and the Sun (wiki)](https://en.wikipedia.org/wiki/The_North_Wind_and_the_Sun)
 
 <!-- ### 1. Test your vowel perception and X-SAMPA understanding! (under construction)
 
